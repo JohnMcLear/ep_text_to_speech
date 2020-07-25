@@ -1,7 +1,10 @@
 {
   "name": "ep_text_to_speech",
   "description": "Text to Speech functionality, play back a pads contents or a selection of a pad through your headphones / speakers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "johnyma22 (John McLear) <john@mclear.co.uk>",
-  "repository" : { "type" : "git", "url"  : "https://github.com/JohnMcLear/ep_text_to_speech.git" }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnMcLear/ep_text_to_speech.git"
+  }
 }
